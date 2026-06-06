@@ -1,21 +1,27 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Reaction Kinetics of NO2 with O3 at Different Temperatures**  
+**Feb. 2024 – Present**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+•	Redetermined the rate constant for the NO2 + O3 reaction, correcting a systematic underestimation in prior studies, measured k = 6.68 × 10-17 cm3·molecule-1·s-1 at 298 K, derived Ea = 26.2 kJ/mol, A = 1.88 × 10-12 cm3·molecule-1·s-1
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+### **Comprehensive Intercomparison of Nitrogen Oxide Instruments**  
+**Oct. 2023 – Dec. 2023**  
 
----
+•	Designed and executed a multi-tiered evaluation protocol in 100 m3 chamber to systematically assess the performance of over ten NOx instruments based on chemiluminescence, photolysis, and direct spectroscopy
+•	Identified principle-specific biases: molybdenum converters overestimated NO2 under oxidizing and humid conditions, photolysis methods were susceptible to aerosol interference, while spectroscopic techniques showed highest accuracy and robustness
+•	Validated laboratory findings through field measurements in Beijing, confirming that systematic biases persist even in clean air, with direct spectroscopy proving most reliable for complex atmospheric monitoring
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **Ozone-Induced Pulmonary Toxicity Using a Bronchus-on-Chip Model**  
+**Feb. 2023 – Sep. 2023**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+•	Engineered a human bronchial epithelium-on-chip model that successfully differentiated into functional ciliated and secretory cells
+•	Designed a novel atmospheric simulation bioreactor (ABC-reactor) to expose organ chips to precise, physiologically relevant ozone concentrations
+•	Discovered that 400 ppbv ozone severely damaged the bronchial barrier and triggered a strong pro-inflammatory response
+•	Found that 200 ppbv ozone induced cell dysfunction and apoptosis while suppressing immune responses, suggesting a hidden health risk
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+### **Development of Top-to-Bottom Channel-Enhanced Dewatering for River Sediment**  
+**Dec. 2018 – Jun. 2022**  
+
+•	Designed and tested artificial water-transmitting channels (wool, cotton, flax, polyethylene), achieving substantial improvements in sediment dewatering efficiency under applied pressure
+•	Demonstrated that wool-blend channels, due to high compressibility and water absorption, achieved the best performance, reducing final water content to 39.6 wt% and enhancing dewaterability by 229.3 kg·kg-1·h-1
+
+
